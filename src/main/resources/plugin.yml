@@ -1,0 +1,9 @@
+name: AutoQuestion
+version: '${project.version}'
+main: kr.cosine.autoquestion.AutoQuestion
+authors: [ Cosine_A ]
+description: 자동 응답 플러그인
+
+commands:
+  설정:
+  질문:
